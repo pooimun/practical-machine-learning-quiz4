@@ -1,4 +1,4 @@
-# practical-machine-learning-quiz4
+# Practical Machine Learning Course Project
 
 ## Background
 
