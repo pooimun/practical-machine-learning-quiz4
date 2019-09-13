@@ -1,4 +1,4 @@
-title: "Practical Machine Learning Quiz 4"
+title: "Practical Machine Learning Course Project"
 
 author: "Pooi Mun"
 
