@@ -1,8 +1,8 @@
-title: "Practical Machine Learning Course Project"
+Title: Practical Machine Learning Course Project
 
-author: "Pooi Mun"
+Author: Pooi Mun
 
-date: "9/13/2019"
+Date: 9/13/2019
 
 
 # Executive Summary
